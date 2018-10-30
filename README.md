@@ -1,4 +1,4 @@
 # Port_Scan
-Escaneia portas TPC/IP 
+Scan ports TPC/IP 
 
-Codigo simples desenvolvido durante a Disciplina de Sistemas Distribuidos UNEMAT Barra do Bugres - MT
+Simple code developed during the Distributed Systems Discipline UNEMAT Barra do Bugres - MT
